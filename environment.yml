@@ -7,4 +7,5 @@ dependencies:
   - scikit-learn
   - pymc3
   - seaborn
+  - graphviz
   
